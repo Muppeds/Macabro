@@ -1,4 +1,5 @@
-# ¡Hola! 👋 Soy Edu.
+# Hi I'm Edu.👋
+I am an IT professional with experience in technical support, where I have developed a resolute and proactive mentality, learning to face challenges quickly and effectively. My background in Microcomputer Systems and Networks and Multiplatform Application Development has allowed me to understand both the technical and strategic aspects of technology.
 
 ## 🚀 Tecnologías & Herramientas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
