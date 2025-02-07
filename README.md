@@ -12,6 +12,6 @@ I am an IT professional with experience in technical support, where I have devel
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Muppeds&show_icons=true&theme=dracula)
 
 ## 🌍 Connect with me
-<p padding: 10px>[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-mancebo-gamella-314423256)</p>
-<p></p>[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MisterManses)
-<p></p>[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/edduumdz/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-mancebo-gamella-314423256)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MisterManses)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/edduumdz/)
